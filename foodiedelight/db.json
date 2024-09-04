@@ -1,0 +1,22 @@
+{
+  "restaurants": [
+    {
+      "id": "2",
+      "name": "Burger Barn",
+      "description": "Juicy burgers",
+      "location": "Los Angeles"
+    },
+    {
+      "id": "ea31",
+      "name": "The Great Grill",
+      "description": "Sandwich Shop",
+      "location": "Ahmedabad"
+    },
+    {
+      "id": "7a27",
+      "name": "vwev",
+      "description": "wvw",
+      "location": "wv"
+    }
+  ]
+}
